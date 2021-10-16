@@ -5,11 +5,11 @@ strings:
       winnerMessage: "&fTu as gagné !"
       whoWinMessage: "&fa gagné !"
     damageListeners:
-      killerSendMessage: "&fTu viens de tuer: "
+      killerSendMessage: "&fTu viens de tuer:"
     playerListeners:
       statePlayingKickMessage: "&fLa partie est déjà en cours..."
       stateFinishKickMessage: "&fLa partie viens de se terminer, le serveur va redémarrer..."
       joinMessage: "&fviens de rejoindre la partie."
     autoStart:
-      timerMessage: "&fLa partie se lance dans "
+      timerMessage: "&fLa partie se lance dans"
       gameStart: "&fLancement de la partie !"

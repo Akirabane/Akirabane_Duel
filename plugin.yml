@@ -1,4 +1,5 @@
-name: AkirabaneGames
+name: AkirabaneDuel
 version: 1.0
 author: Akirabane
-main: fr.akirabane.akirabanegames.Main
+main: fr.akirabane.akirabaneduel.Main
+api-version: 1.16
